@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">record_screen</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+<string name="error_bitrate_edittext">ki tu nho hon 50</string>
+    <string name="error_time_editext">thoi gian nho hon 180</string>
+<string name="toast_invalid_values">thoi gian khong de trong</string>
+    <string name="error_invalid_wxh">sai kich thuoc</string>
+<string name="error_start_recording">loi start record</string>
+    
+</resources>
